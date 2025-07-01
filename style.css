@@ -1,0 +1,54 @@
+	p, h2 {
+		font-size: 30px; 
+		color:#25484d;
+		text-shadow: 3px 3px 6px rgba(0, 0, 0, 1);
+	}
+
+	.container {
+		max-width: 400px;
+		margin: 50px 10px;
+		padding: 30px;
+		background-color: lightpink;
+		box-shadow: 0 4px 12px rgba(0, 0, 0, 1.0);
+		text-shadow: 0 4px 12px rgba(0, 0, 0, 1.0);
+		font-family: Arial, sans-serif;
+	}
+
+	.rad-90{
+		border-radius: 90px;
+	}
+
+	.container button {
+		width: 30%;
+		padding: 12px;
+		background-color: skyblue ;
+		color: #ffffff;
+		border: none;
+		cursor: pointer;
+		font-size: 16px;
+	 margin: 30px;
+	}
+
+	#main-btn {
+		background-color: red;
+	}
+
+	.name-bold {
+  color: darkblue;
+  font-size: 18px;
+}
+
+.name-italic {
+  color: darkgreen;
+  font-style: italic;
+}
+
+.animal-underlined {
+  text-decoration: underline;
+  color: purple;
+}
+
+.striked-word {
+  color: gray;
+  text-decoration: line-through;
+}
